@@ -7,8 +7,8 @@ Would you be interested in collaborating with me ?  😊
 **Together we will learn more about how to improve our way of doing things !** 😉
 Rock & Roll 🤘🤘🤘
 
-Twitter: [vicboma1](https://twitter.com/vicboma1)
-
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/logo2020.png" align="center" height="200" width="350">
 </p>
+
+Twitter: [vicboma1](https://twitter.com/vicboma1)
