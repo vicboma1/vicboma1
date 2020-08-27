@@ -13,3 +13,7 @@ Rock & Roll 🤘🤘🤘
     <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/logo2020.png" align="center" height="200" width="350">
 </p>
 
+
+<p align="center">
+        <img src=https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/logo2020.png" align="center" width="350" height="200">
+</p>
