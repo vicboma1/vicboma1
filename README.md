@@ -10,10 +10,7 @@ Would you be interested in collaborating with me ?  😊
 Rock & Roll 🤘🤘🤘
 
 <p align="center">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/logo2020.png" align="center" height="200" width="350">
-</p>
-
-
-<p align="center">
-        <img src=https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/logo2020.png" align="center" width="350" height="200">
+    <a href="https://github.com/vicboma1/loaderDumpsArcade">
+        <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/logo2020.png" align="center" width="350" height="200">
+    </a>
 </p>
